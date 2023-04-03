@@ -1,0 +1,37 @@
+﻿  mcpp.cpp
+D:\BaiduNetdiskDownload\c_\mcpp\mcpp.cpp(30,34): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\BaiduNetdiskDownload\c_\mcpp\mcpp.cpp(53,72): warning C4244: “参数”: 从“_Ty”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\BaiduNetdiskDownload\c_\mcpp\mcpp.cpp(53,42): warning C4244: “参数”: 从“_Ty”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\BaiduNetdiskDownload\c_\mcpp\mcpp.cpp(125,61): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\BaiduNetdiskDownload\c_\mcpp\mcpp.cpp(126,61): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+D:\BaiduNetdiskDownload\c_\mcpp\mcpp.cpp(34,42): warning C4101: “alpha_m”: 未引用的局部变量
+D:\BaiduNetdiskDownload\c_\mcpp\mcpp.cpp(34,15): warning C4101: “theta”: 未引用的局部变量
+D:\BaiduNetdiskDownload\c_\mcpp\mcpp.cpp(34,32): warning C4101: “alpha_fh”: 未引用的局部变量
+D:\BaiduNetdiskDownload\c_\mcpp\mcpp.cpp(34,9): warning C4101: “v”: 未引用的局部变量
+D:\BaiduNetdiskDownload\c_\mcpp\mcpp.cpp(34,12): warning C4101: “h”: 未引用的局部变量
+D:\BaiduNetdiskDownload\c_\mcpp\mcpp.cpp(34,22): warning C4101: “alpha_fv”: 未引用的局部变量
+  mcpp.vcxproj -> D:\BaiduNetdiskDownload\c_\mcpp\x64\Debug\mcpp.exe
